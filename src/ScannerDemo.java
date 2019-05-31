@@ -13,8 +13,8 @@ public class ScannerDemo
 					{
 						System.out.println( in.next( ) );
 					}
-					
-				in.close(); //Close else you won't b able to use it
+
+				in.close( ); //Close else you won't b able to use it
 
 				System.out.println( "\n\n Finished" );
 
